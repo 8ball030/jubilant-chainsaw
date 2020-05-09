@@ -35,9 +35,9 @@ Because the relative price of the two pair assets can only be changed through tr
 
 Requirements
 
-1. A Web3.0 browser (I personally use the Brave Browser) INSERT REF LINK
+1. A Web3.0 browser (I personally use the [Brave Browser](https://brave.com/bal844)) 
 
-2. The MetaMask Plugin (INSERT LINK)
+2. The MetaMask Plugin 
 
 3. A small amount of Ethereum
 
@@ -70,6 +70,9 @@ Now, we search for the PLU token by the its smart contract
 
 # Step 3
 Make sure that you have have selected the correct Contract by verifying the contract on Etherscan as suggested!
+![](imgs/verify_legit1.png) 
+![](imgs/verify_2.png) 
+
 
 # Step 4
 Select the amount of liquidity to provide to the pool
@@ -78,19 +81,65 @@ Select the amount of liquidity to provide to the pool
 # Step 5
 Add the liquidity
 
-Sign the transaction
-
-Check the transaction status and see it is pending.
-
 We will need to submit 2 transactions.
 
 One to provide our eth
 
 And the second to provide our Plut tokens.
 
+![](imgs/5a.png) 
+Sign the first transaction
+![](imgs/5b.png) 
+
+Check the transaction status and see it is pending.
+![](imgs/5c.png) 
+
 Once we have signed these transactions, we can confirm that our funds are now removed from our Wallet.
 
-In the place of these funds, we will now see within our wallet that we hold a 
+
+In the place of these funds, we will now see within our wallet that we hold a Uniswap Contract that we can use to remove liquidity from the pool! 
+
+![](imgs/5d.png) 
+Congratulations!
 
 # Removing liquidity from the pool
+When you decide that it is time to remove liqudity from the pool, you will need to follow the inital steps, however, We will select remove liquidity.
+
+![](imgs/6a.png) 
+
+
+We can select the amount of liquidity we would like to remove as so;
+
+
+![](imgs/6b.png) 
+
+
+Again, we will need to sign this transaction!
+
+![](imgs/6c.png) 
+
+
+# Conclusion
+
+You have now seen how you too have help to fight the problem of centralisation and support the ecosystem of a project.
+
+Thanks for taking the time to get this far!
+
+Support is hugely appreciated and any attempt to share this information is greatly appreciated.
+
+
+
+BTC:
+37fRtmuJTLR8QZtKWwyHh7d5AWiv4Xoz8G
+
+BCH:
+0xec34CD3ABDEBC781647083AF3d2fafADacb35D63
+
+ETH:
+8baller.eth
+
+[Brave Support](https://brave.com/bal844)
+
+[Patreon](https://www.patreon.com/8baller030?fan_landing=true)
+ 
 
