@@ -66,7 +66,7 @@ Now, we search for the PLU token by the its smart contract
 ```
 0xD8912C10681D8B21Fd3742244f44658dBA12264E
 ```
-![](imgs/Step 2.png) 
+![](imgs/Step_2.png) 
 
 # Step 3
 Make sure that you have have selected the correct Contract by verifying the contract on Etherscan as suggested!
