@@ -47,33 +47,33 @@ Requirements
 First We navigate to the Uniswap Pool Page 
 [Uniswap](https://uniswap.exchange/add-liquidity)
 
-![](./imgs/step1.png) 
+![](imgs/step1.png) 
 
 # Step 2 
 Connect our Metamask plugin to the Uniswap.
-![](./imgs/connect_wal.png) 
+![](imgs/connect_wal.png) 
 
 (Click the top right Connect Wallet)
 
-![](./imgs/connect_2png) 
+![](imgs/connect_2png) 
 
-![](./imgs/conn_3.png) 
+![](imgs/conn_3.png) 
 
-![](./imgs/conn_4.png) 
+![](imgs/conn_4.png) 
 
 # Step 3
 Now, we search for the PLU token by the its smart contract
 ```
 0xD8912C10681D8B21Fd3742244f44658dBA12264E
 ```
-![](./imgs/Step 2.png) 
+![](imgs/Step 2.png) 
 
 # Step 3
 Make sure that you have have selected the correct Contract by verifying the contract on Etherscan as suggested!
 
 # Step 4
 Select the amount of liquidity to provide to the pool
-![](./imgs/sel_liquid.png) 
+![](imgs/sel_liquid.png) 
 
 # Step 5
 Add the liquidity
