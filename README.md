@@ -1,29 +1,23 @@
 # Providing Liquidity on Uniswap
 
-
-As the Coronavirus ravages the global economy, and ith unemployment in the States at all time highs, dwarfing the figures from the Great Recession. It becomes increasingly apparent that the central banks of the world are intending to print their way out of the inpending crises.
-
-
-The 
+As the Coronavirus ravages the global economy,unemployment in the States is at all time highs, dwarfing the figures from the Great Recession. It is becoming blindingly apparent that the central banks of the world are intending to print their way out of the inpending crises.
 
 
+Therefore, it becomes increasingly important for the indivdual to control their own financal future. Unlike at anypoint in history, we are so interconnected that the whole world will feel the impact of the decisions made by the largest economies in the world.
 
-Therefore, it becomes increasingly important for the indivdual to control their own financal futures. Unlike at anypoint in history, we are so interconnected that the whole world will feel the impact of the decisions made by the largest economies in the world.
+The silver lining in this world of ever more devalued money is that for the first time in history, we the individuals have the tools within our grasp to refuse to allow the governments to set their own financial interests above our own.
 
-The silver lining in this world of increasingly devalued money is that for the first time in hostory, we the indivduals have the tools within our grasp to refuse to allow the governments to set their own financial interests above our own.
-
-Decntralised finance is the future of money. and as the industry becomes increasing more mature, the overlap between traditional and modern decentralized is begining to fade.
+Decentralised finance is the future of money. As the industry becomes ever more mature, the overlap between traditional and modern decentralized is begining to fade.
 
 To this end, I have been actively seeking alternatives to the current system. Which brings me nicely to Plutus.it
 
-A bridge between the world of fiat and the world of crypto, there is the potential for a whole new system to emerge where we are not reliant upon decisions made behind closed door by shadowy bankers and power brokers pulling the strings behind the scenes.
+A bridge between the world of fiat and the world of crypto, there is the potential for a whole new system to emerge where we are not reliant upon decisions made behind closed door by shadowy bankers and power brokers pulling strings behind the scenes.
 
 Plutus provide a non-custodial solution to the issue of a how to bridge the gap between the real world and the virtual. 
 
-As an avid supporter of the movement, I have been eager to help move the project forwards. I am firm believer that the Network effect of indivduals driving exponential value to an undertaking.
+As an avid supporter of the movement, I have been eager to help move the project forwards. I am firm believer that the Network effect of indivduals will drive exponential value to any undertaking.
 
 To this end, today I am going to show you how you too can get involved in the financial revolution and help to provide liquidity to the project.
-
 
 # The Concept
 
