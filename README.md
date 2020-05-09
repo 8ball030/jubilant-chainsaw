@@ -118,6 +118,7 @@ Again, we will need to sign this transaction!
 
 ![](imgs/6c.png) 
 
+![](imgs/6d.png) 
 
 # Conclusion
 
