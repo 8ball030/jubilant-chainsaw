@@ -11,7 +11,7 @@ Decentralised finance is the future of money. As the industry becomes ever more 
 
 To this end, I have been actively seeking alternatives to the current system. Which brings me nicely to Plutus.it
 
-A bridge between the world of fiat and the world of crypto, there is the potential for a whole new system to emerge where we are not reliant upon decisions made behind closed door by shadowy bankers and power brokers pulling strings behind the scenes.
+A bridge between the world of fiat and the world of crypto, there is the potential for a whole new system to emerge where we are not reliant upon decisions made behind closed door by shadowy bankers and power brokers pulling secret strings behind the scenes.
 
 Plutus provide a non-custodial solution to the issue of a how to bridge the gap between the real world and the virtual. 
 
@@ -44,22 +44,36 @@ Requirements
 4. A small amount of Plutus
 
 # Step 1
-First We navigate to the Uniswap page
-https://uniswap.exchange/add-liquidity
+First We navigate to the Uniswap Pool Page 
+[Uniswap](https://uniswap.exchange/add-liquidity)
+
+![](./imgs/step1.png) 
 
 # Step 2 
 Connect our Metamask plugin to the Uniswap.
+![](./imgs/connect_wal.png) 
 
+(Click the top right Connect Wallet)
 
-# Step 2
+![](./imgs/connect_2png) 
+
+![](./imgs/conn_3.png) 
+
+![](./imgs/conn_4.png) 
+
+# Step 3
 Now, we search for the PLU token by the its smart contract
+```
 0xD8912C10681D8B21Fd3742244f44658dBA12264E
+```
+![](./imgs/Step 2.png) 
 
 # Step 3
 Make sure that you have have selected the correct Contract by verifying the contract on Etherscan as suggested!
 
 # Step 4
 Select the amount of liquidity to provide to the pool
+![](./imgs/sel_liquid.png) 
 
 # Step 5
 Add the liquidity
