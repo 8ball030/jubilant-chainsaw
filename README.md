@@ -120,6 +120,13 @@ Again, we will need to sign this transaction!
 
 ![](imgs/6d.png) 
 
+
+Now, we will see on EtherScanner that PLU and Ether have been returned to our wallet.
+
+
+
+![](imgs/6e.png) 
+
 # Conclusion
 
 You have now seen how you too have help to fight the problem of centralisation and support the ecosystem of a project.
